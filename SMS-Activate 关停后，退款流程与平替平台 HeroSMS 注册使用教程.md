@@ -17,7 +17,7 @@
 
 > ⚠️ **部分地区访问 SMS-Activate 官网可能无法打开，如果打不开，请用工具后访问。：**
 >
-> *   👉点此获取 [美区apple ID共享](https://fanqiangnan.com/apple_id.html)
+> *   👉点此获取 [美区apple ID共享](https://fanqiangnan.com/appleid.html)
 
 ***
 
