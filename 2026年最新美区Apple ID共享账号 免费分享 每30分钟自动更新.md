@@ -18,7 +18,7 @@
 
 > ⚠️ 特别提醒：由于使用 美区Apple ID共享账号 的人数较多，可能会出现“账号锁定”的情况。
 >
-> 如遇登录失败，请点击此处获取最新可用的美区ID（每30分钟自动更新）： [fanqiangnan.com](https://fanqiangnan.com/apple_id.html)
+> 如遇登录失败，请点击此处获取最新可用的美区ID（每30分钟自动更新）： [fanqiangnan.com](https://fanqiangnan.com/appleid.html)
 
 ![翻墙男-科学上网之家的共享小火箭帐号展示界面](images/zhuye.png)
 
@@ -41,7 +41,7 @@
 建议大家：
 
 -   收藏并关注本页面，随时获取最新账号；
--   遇到失效时，可以通过 [fanqiangnan.com](https://fanqiangnan.com/apple_id.html) 实时获取（每30分钟更新一批）；
+-   遇到失效时，可以通过 [fanqiangnan.com](https://fanqiangnan.com/appleid.html) 实时获取（每30分钟更新一批）；
 -   如果需要更稳定、安全的体验，还是建议自己注册一个 **美国 Apple ID** 。
 
   
